@@ -18,6 +18,5 @@ Use the xterm-256color configurations
 ####For anyone that doesn't work for:
 Use the xterm-ansi configurations
 
-Credit:
--------
+###Credit:
 Ethan Schoonover for the awesome colorscheme – http://ethanschoonover.com/solarized
