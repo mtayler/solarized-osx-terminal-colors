@@ -1,7 +1,7 @@
 solarized-osx-terminal-colors
 =============================
 
-The correct colors for Terminal.app to run Solarized (fixes editor colorscheme)
+Terminal colours for the Solarized coloscheme
 
 I've only tested this on Mountain Lion and Mavericks, and cannot guarantee success using any other version.
 
@@ -17,3 +17,7 @@ Use the xterm-256color configurations
 
 ####For anyone that doesn't work for:
 Use the xterm-ansi configurations
+
+Credit:
+-------
+Ethan Schoonover for the awesome colorscheme – http://ethanschoonover.com/solarized
