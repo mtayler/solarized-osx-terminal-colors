@@ -9,18 +9,18 @@ Rather than using Terminal.app, I suggest moving to iTerm2, with the main solari
 
 Installation:
 -------------
-####For Mountain Lion and above:
+#### For Mountain Lion and above:
 Use the xterm-256color configurations
 
-####For anyone that doesn't work for:
+#### For anyone that doesn't work for:
 Use the xterm-ansi configurations
 
 
-#####For use with Vim:
+##### For use with Vim:
 Put the following in your .vimrc, and remove any colour hacks (`let g:solarized_termcolors=256`, etc.)
 
     set background=<either dark or light>
     colorscheme solarized
 
-###Credit:
+### Credit:
 Ethan Schoonover for the awesome colorscheme – http://ethanschoonover.com/solarized
